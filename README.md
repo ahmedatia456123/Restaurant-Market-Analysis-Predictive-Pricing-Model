@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="[[https://colab.research.google.com/github/sample_repo/sample_notebook.ipynb](https://colab.research.google.com/drive/17hybci2ENtSJ4DEXN6jkFJkVQXJQeyES?usp=drive_link)](https://colab.research.google.com/drive/17hybci2ENtSJ4DEXN6jkFJkVQXJQeyES?usp=drive_link)">
+  <a href="https://colab.research.google.com/drive/17hybci2ENtSJ4DEXN6jkFJkVQXJQeyES?usp=drive_link">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/, width=150, /></a>
 
 </p>
