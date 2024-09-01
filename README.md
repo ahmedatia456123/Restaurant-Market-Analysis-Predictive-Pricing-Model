@@ -14,11 +14,14 @@
 <p>Bengaluru, known as the IT hub of India, has a large population that relies heavily on dining out due to busy lifestyles, making the study of restaurant demographics crucial. This analysis aims to uncover key patterns and preferences, including:</p>
 
 <ul>
-    <li><strong>Popularity of Various Cuisines:</strong> Identifying which types of food are favored in different localities.</li>
-    <li><strong>Vegetarian Preferences:</strong> Examining if certain areas show a strong inclination towards vegetarian dishes and whether these areas are predominantly inhabited by specific communities, such as Jains, Marwaris, or Gujaratis.</li>
-    <li><strong>Restaurant Characteristics:</strong> Evaluating factors such as the restaurant's location, pricing, and whether it follows a theme.</li>
-    <li><strong>Local Cuisine Trends:</strong> Determining which neighborhoods are renowned for particular types of cuisine and the factors driving these preferences.</li>
+  <li><strong>Explore the food and restaurant industry in the city.</strong></li>
+  <li><strong>Analyze trends and identify opportunities for market entry or improvement.</strong></li>
+  <li><strong>Uncover market characteristics and classify restaurants into five distinct groups.</strong></li>
+  <li><strong>Conduct a detailed analysis of each restaurant group.</strong></li>
+  <li><strong>Examine customer behavior to understand preferences and dislikes by analyzing reviews from various restaurants.</strong></li>
+  <li><strong>Build a predictive model to assist in the pricing process for restaurants based on market pricing trends.</strong></li>
 </ul>
+
 
 <p>By studying these aspects, we can gain a deeper understanding of the restaurant landscape in Bengaluru, helping new and existing restaurants better align with local tastes and demands.</p>
 
